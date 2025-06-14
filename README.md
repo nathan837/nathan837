@@ -54,18 +54,8 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 
 ---
 
-## ✨ Fun Fact
-
-> “Don’t rush the process 👽⏳” — I'm a firm believer in growth, patience, and persistence.
-
----
-
 ### 🙏 Psalm 91:1  
 > *"Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty."* ✝️
 
----
-
-### 🐐 Inspirations  
-@cristiano ⚽ | @zuck 🧠 | @manchesterunited 🔴
 
 
