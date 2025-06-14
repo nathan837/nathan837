@@ -9,17 +9,16 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" alt="Vite" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" height="30" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" height="40" style="margin-right:15px;" fill="#007396"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" height="40" style="margin-right:15px;" fill="#6DB33F"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" height="40" style="margin-right:15px;" fill="#61DAFB"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" height="40" style="margin-right:15px;" fill="#4479A1"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" height="40" style="margin-right:15px;" fill="#777BB4"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" height="40" style="margin-right:15px;" fill="#06B6D4"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" alt="Vite" height="40" style="margin-right:15px;" fill="#646CFF"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" height="40" style="margin-right:15px;" fill="#E34F26"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" height="40" style="margin-right:15px;" fill="#1572B6"/>
 </p>
-
 
 ---
 
