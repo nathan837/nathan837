@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nathan Samuel  
 
-<!--
-**nathan837/nathan837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | Full-Stack Enthusiast | Tech Learner
 
-Here are some ideas to get you started:
+I'm a passionate high school student and aspiring software engineer who loves building web applications and learning new technologies. I specialize in **Java & Spring Boot** for the backend and use **React.js** on the frontend. I’m always exploring new tools and improving my skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 📚 Projects
+
+- 📖 **E-Library for Grades 9–12**  
+  Web app for students to read PDFs and get AI support on school subjects. Built with HTML/CSS, PHP, MySQL, and integrated with an AI chatbot.
+
+- 🧠 **AI-Powered Study Assistant**  
+  Embedded chatbot in a document viewer to help students learn better. (In progress)
+
+- ⚽ **Personal Soccer Tracker** *(coming soon)*  
+  A fun web app to track goals, practice schedules, and progress as a soccer lover.
+
+---
+
+## 🌱 Currently Learning
+- Advanced Java & Spring Boot
+- React Hooks and Context API
+- Docker & Deployment Basics
+
+---
+
+## 📫 Connect With Me
+
+- ✉️ Email: nathan77sam@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nathan-samuel-64b2a1296/ 
+
+---
+
+## ✨ Fun Fact
+
+> “Don’t rush the process 👽⏳” — I'm a firm believer in growth, patience, and persistence.
+
+---
+
+### 🙏 Psalm 91:1  
+> *"Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty."* ✝️
+
+---
+
+### 🐐 Inspirations  
+@cristiano ⚽ | @zuck 🧠 | @manchesterunited 🔴
+
+
