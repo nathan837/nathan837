@@ -8,10 +8,6 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
-## 🚀 Tech Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" height="30" />
