@@ -30,18 +30,7 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 
 ---
 
-## 📚 Projects
 
-- 📖 **E-Library for Grades 9–12**  
-  Web app for students to read PDFs and get AI support on school subjects. Built with HTML/CSS, PHP, MySQL, and integrated with an AI chatbot.
-
-- 🧠 **AI-Powered Study Assistant**  
-  Embedded chatbot in a document viewer to help students learn better. (In progress)
-
-- ⚽ **Personal Soccer Tracker** *(coming soon)*  
-  A fun web app to track goals, practice schedules, and progress as a soccer lover.
-
----
 
 ## 🌱 Currently Learning
 - Advanced Java & Spring Boot
