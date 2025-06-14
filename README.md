@@ -7,9 +7,11 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 ---
 
 ## 🚀 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,php,tailwind,vite,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,php,tailwind,vite,html,css&perline=9" height="60"/>
 </p>
+
 
 
 ---
