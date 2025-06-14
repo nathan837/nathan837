@@ -41,10 +41,17 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 
 ---
 
-## 📫 Connect With Me
+## 📫  Reach Me
 
-- ✉️ Email: nathan777sam@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nathan-samuel-64b2a1296/ 
+<p align="left">
+  <a href="mailto:nathan777sam@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" style="margin-right:20px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-samuel-64b2a1296/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right:20px;" />
+  </a>
+</p>
+
 
 ---
 
