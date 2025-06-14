@@ -5,19 +5,9 @@
 I'm a passionate high school student and aspiring software engineer who loves building web applications and learning new technologies. I specialize in **Java & Spring Boot** for the backend and use **React.js** on the frontend. I’m always exploring new tools and improving my skills through real-world projects.
 
 ---
-## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" alt="Vite" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" height="60" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" height="60" style="margin-right:20px;" />
-</p>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/java.svg" height="60" />
+
 
 ---
 
