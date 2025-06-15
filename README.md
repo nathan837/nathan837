@@ -3,7 +3,7 @@
 
 ### 💻 Software Developer | Full-Stack Enthusiast | Tech Learner
 
-I'm a passionate high school student and aspiring software engineer who loves building web applications and learning new technologies. I specialize in **Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="25" style="margin-right:20px;" />& Spring Boot  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="25" style="margin-right:25px;" />** for the backend and use **React.js** on the frontend. I’m always exploring new tools and improving my skills through real-world projects.
+I'm a passionate high school student and aspiring software engineer who loves building web applications and learning new technologies. I specialize in **Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="25" style="margin-right:20px;" />& Spring Boot  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="20" style="margin-right:25px;" />** for the backend and use **React.js** on the frontend. I’m always exploring new tools and improving my skills through real-world projects.
 
 ---
 
