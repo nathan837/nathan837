@@ -3,7 +3,7 @@
 
 ### 💻 Software Developer | Full-Stack Enthusiast | Tech Learner
 
-I'm a passionate high school student and aspiring software engineer who loves building web applications and learning new technologies. I specialize in **Java & Spring Boot** for the backend and use **React.js** on the frontend. I’m always exploring new tools and improving my skills through real-world projects.
+I'm a passionate high school student and aspiring software engineer who loves building web applications and learning new technologies. I specialize in **Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" style="margin-right:10px;" />& Spring Boot  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="30" style="margin-right:10px;" />** for the backend and use **React.js** on the frontend. I’m always exploring new tools and improving my skills through real-world projects.
 
 ---
 
@@ -13,7 +13,7 @@ I'm a passionate high school student and aspiring software engineer who loves bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="60" style="margin-right:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="60" style="margin-right:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" style="margin-right:20px;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" style="margin-right:20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" style="margin-right:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" style="margin-right:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" style="margin-right:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" style="margin-right:20px;" />
