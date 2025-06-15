@@ -43,7 +43,7 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 
 ## 📫  Reach Me
 
-<p align="left">
+<p align="left" gap="5pc">
   <a href="mailto:nathan777sam@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" style="margin-right:20px;" />
   </a>
