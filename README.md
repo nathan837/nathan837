@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nathan Samuel  
+# 👋 Nathan Samuel  
 ![Profile views](https://komarev.com/ghpvc/?username=nathan837&color=blue)
 
 ### 💻 Software Developer | Full-Stack Enthusiast | Tech Learner
