@@ -1,4 +1,4 @@
-# 👋 Hi I'm Nath
+# 👋 Hi I'm NATH
 ![Profile views](https://komarev.com/ghpvc/?username=nathan837&color=blue)
 
 ### 💻 Software Developer | Full-Stack Enthusiast | Tech Learner
