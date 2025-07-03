@@ -31,7 +31,7 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathan837&show_icons=true&theme=tokyonight)
+![Metrics](https://raw.githubusercontent.com/nathan837/nathan837/main/github-metrics.svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathan837&show_icons=true&theme=tokyonight)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nathan777sam?theme=dark&font=monospace&ext=heatmap)
