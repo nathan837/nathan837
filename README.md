@@ -32,7 +32,6 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 </p>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/nathan777sam?theme=dark&font=monospace&ext=heatmap)
 
 
 ## 🌱 Currently Learning
@@ -41,29 +40,6 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 - Docker & Deployment Basics
 
 ---
-
-## 📫  Reach Me
-
-<p align="left" gap="5pc">
-  <a href="mailto:nathan777sam@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" style="margin-right:20pc;" />
-  </a>
-  <a href="https://www.linkedin.com/in/nathan-samuel-64b2a1296/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right:20pc;" />
-  </a>
-  <a href="https://t.me/zaytoven_7" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" style="margin-right:20pc;" />
-  </a>
-  <a href="https://instagram.com/_zaytoven._" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" style="margin-right:20pc;" />
-  </a>
-</p>
-
-
----
-
-### 🙏 Psalm 91:1  
-> *"Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty."* ✝️
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/nathan777sam?theme=dark&font=monospace&ext=heatmap)
 
 
