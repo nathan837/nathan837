@@ -1,5 +1,7 @@
 # 👋 Hi I'm NATH
 ![Profile views](https://komarev.com/ghpvc/?username=nathan837&color=blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nathan837&theme=tokyonight)
+
 
 ### 💻 Software Developer | Full-Stack Enthusiast | Tech Learner
 
