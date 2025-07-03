@@ -32,7 +32,7 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathan837&show_icons=true&theme=tokyonight)
-[![Solved Problems](https://leetcode-readme-stats.vercel.app/api?username=nathan777sam&show_solved=true&theme=tokyonight)](https://leetcode.com/nathan777sam)
+[![LeetCode stats](https://leetcode-card.vercel.app/api?username=nathan777sam)](https://leetcode.com/nathan777sam)
 
 ![LeetCode Acceptance Rate](https://img.shields.io/badge/Acceptance%20Rate-80%25-brightgreen?style=flat&logo=leetcode&logoColor=white)
 
