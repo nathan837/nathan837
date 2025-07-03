@@ -32,7 +32,7 @@ I'm a passionate high school student and aspiring software engineer who loves bu
 </p>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/nathan777sam?theme=light&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nathan777sam?theme=dark&font=monospace&ext=heatmap)
 
 
 ## 🌱 Currently Learning
